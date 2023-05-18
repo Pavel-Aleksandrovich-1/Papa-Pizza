@@ -3,6 +3,9 @@
     "@types/lodash.debounce": "^4.0.7",
     "@types/qs": "^6.9.7"
   },
+  "engines": {
+    "node": ">=14 <15"
+  },
   "dependencies": {
     "sass": "^1.62.1"
   }
