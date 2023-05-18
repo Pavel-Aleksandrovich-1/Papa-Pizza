@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/lodash.debounce": "^4.0.7",
+    "@types/qs": "^6.9.7"
+  },
+  "dependencies": {
+    "sass": "^1.62.1"
+  }
+}
