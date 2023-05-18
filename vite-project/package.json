@@ -11,6 +11,9 @@
     "predeploy": " npm run build",
     "deploy": "gh-pages -d build"
   },
+  "engines": {
+    "node": ">=14 <15"
+  },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@types/jest": "^29.5.1",
